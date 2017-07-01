@@ -1,0 +1,10 @@
+{
+  "name": "ecommWebApp",
+  "description": "A sample ecommerce web app...",
+  "main": "",
+  "authors": [
+    "Lakshman Kumar Kotipalli"
+  ],
+  "license": "MIT",
+  "homepage": "index.html"
+}
