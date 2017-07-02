@@ -6,5 +6,8 @@
     "Lakshman Kumar Kotipalli"
   ],
   "license": "MIT",
-  "homepage": "index.html"
+  "homepage": "index.html",
+  "dependencies": {
+    "components-font-awesome": "^4.7.0"
+  }
 }
