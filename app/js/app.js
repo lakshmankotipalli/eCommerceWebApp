@@ -10,6 +10,7 @@ ecomm.config(['$stateProvider', '$urlRouterProvider', '$locationProvider', funct
   })
   .state('dashboard', {
 	  url: '/dashboard',
+    controller: 'dashboardCtrl',
 	  templateUrl: 'partials/dashboard.html'
   });
   $urlRouterProvider.otherwise('/');
