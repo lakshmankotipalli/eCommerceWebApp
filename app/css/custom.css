@@ -42,15 +42,17 @@ html, body {
 
 header {
   height: 15%;
-  background-color: #ccc;
-  position: absolute;
+  background-color: #284C5E;
+  color: #fff;
+  position: fixed;
   width: 100%;
 }
 
 .view-area {
   height: 85%;
-  padding-top: 80%;
+  padding-top: 15%;
   width: 100%;
+  padding-left: 10%;
 }
 
 .logo-space img {
@@ -67,6 +69,11 @@ header {
 }
 
 .cart img {
+  height: 50px;
+  width: 50px;
+}
+
+.display img {
   height: 50px;
   width: 50px;
 }
